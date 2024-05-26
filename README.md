@@ -9,6 +9,7 @@ Some domains I have already worked on:
 <br />💰 Fintech
 <br />🌽 Agribusiness
 <br />🖥 ERP Solutions
+<br />💬 now in Messaging :)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandreferris&theme=github_dark)
 
