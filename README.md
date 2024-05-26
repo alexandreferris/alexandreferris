@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello hello :)
 
-<!--
-**alexandreferris/alexandreferris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You have just entered Alexandre's realm, where the automagic happens
 
-Here are some ideas to get you started:
+Currently working as a Software Engineer on the Android platform deliverying amazing features on the messaging (💬) domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some domains I have already worked on:
+✈ Travel
+💰 Fintech
+🌽 Agribusiness
+🖥 ERP Solutions
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandreferris&theme=github_dark)
+
+📫 How to reach me:
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin" />][linkedin]
+
+<br/> 
+
+[linkedin]: https://www.linkedin.com/in/alexandreferris
