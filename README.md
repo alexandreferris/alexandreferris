@@ -2,7 +2,7 @@
 
 You have just entered Alexandre's realm, where the automagic happens
 
-Currently working as a Software Engineer on the Android platform deliverying amazing features on the messaging (💬) domain.
+Currently working as a Software Engineer on the Integrations platform deliverying amazing features and SDKs on the messaging (💬) domain.
 
 Some domains I have already worked on:
 <br />✈ Travel
